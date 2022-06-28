@@ -11,6 +11,12 @@ import com.example.challengeWEB.model.Filme;
 import com.example.challengeWEB.repository.FilmeRepository;
 import com.example.challengeWEB.vo.FilmeOMDB;
 
+/** Classe que respresenta os serviços de Filme
+ * 
+ * @author Anderson Piotto
+ * @version 1.0.0
+ * @since 28/08/2022
+ */
 @Service
 public class FilmeService {
 

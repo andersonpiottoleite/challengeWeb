@@ -6,6 +6,12 @@ import com.example.challengeWEB.dto.FilmeDTO;
 import com.example.challengeWEB.model.Filme;
 import com.example.challengeWEB.vo.FilmeVO;
 
+/** Classe responavel por efetuar conversões entre classes de modelo, DTO's e VO's
+ * 
+ * @author Anderson Piotto
+ * @version 1.0.0
+ * @since 28/08/2022
+ */
 @Component
 public class FilmeConverter {
 	

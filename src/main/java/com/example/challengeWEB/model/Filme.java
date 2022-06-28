@@ -6,6 +6,13 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+/** Classe que respresenta um Filme, para ser persistido na base de dados
+ * 
+ * @author Anderson Piotto
+ * @version 1.0.0
+ * @since 28/08/2022
+ */
+
 @Entity
 public class Filme {
 	

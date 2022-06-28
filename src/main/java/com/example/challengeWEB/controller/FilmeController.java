@@ -18,6 +18,13 @@ import com.example.challengeWEB.service.FilmeService;
 import com.example.challengeWEB.vo.FilmeOMDB;
 import com.example.challengeWEB.vo.FilmeVO;
 
+/** Classe que representa um controller de filmes
+ * 
+ * @author Anderson Piotto
+ * @version 1.0.0
+ * @since 28/08/2022
+ */
+
 @RestController
 @RequestMapping("/filme")
 public class FilmeController {
